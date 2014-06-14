@@ -250,6 +250,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #headerwrap {
 	background: url(../img/back.jpg) no-repeat center top;
+	background-size:1424px 700px;
 	margin-top: 0px;
 	padding-top:400px;
 	text-align:center;

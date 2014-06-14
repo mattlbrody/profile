@@ -39,10 +39,10 @@
 			<a href="#portfolio" class="smoothScroll">Portfolio</a>
 			<a href="#services" class="smoothScroll">Services</a>
 			<a href="#contact" class="smoothScroll">Contact</a>
-			<a href="#"><i class="fa fa-facebook"></i></a>
-			<a href="#"><i class="fa fa-twitter"></i></a>
-			<a href="#"><i class="fa fa-dribbble"></i></a>
-			<a href="#"><i class="fa fa-envelope"></i></a>
+			<a href="https://www.facebook.com/people/Matt-Brody/7824792" target="_blank"><i class="fa fa-facebook"></i></a>
+			<a href="https://www.linkedin.com/profile/view?id=104895579&trk=nav_responsive_tab_profile_pic" target="_blank"><i class="fa fa-linkedin"></i></a>
+			<a href="https://github.com/mattlbrody" target="_blank"><i class="fa fa-github"></i></a>
+			<a href="mailto:mattlbrody@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
 		</div>
 		
 		<!-- Menu button -->
@@ -101,7 +101,7 @@
 	                    <div class="project">
 	                        <div class="photo-wrapper">
 	                            <div class="photo">
-	                            	<a class="fancybox" href="assets/img/portfolio/port04.jpg"><img class="img-responsive" src="assets/img/portfolio/port04.jpg" alt=""></a>
+	                            	<a class="fancybox" href="assets/img/portfolio/port04.jpg"><img class="img-responsive" src="assets/img/portfolio/port04.jpg" width="400" height="273" alt=""></a>
 	                            </div>
 	                            <div class="overlay"></div>
 	                        </div>
@@ -116,7 +116,7 @@
 	                    <div class="project">
 	                        <div class="photo-wrapper">
 	                            <div class="photo">
-	                            	<a class="fancybox" href="assets/img/portfolio/port05.jpg"><img class="img-responsive" src="assets/img/portfolio/port05.jpg" alt=""></a>
+	                            	<a class="fancybox" href="assets/img/portfolio/port05.jpg"><img class="img-responsive" src="assets/img/portfolio/port05.jpg" width="400" height="273" alt=""></a>
 	                            </div>
 	                            <div class="overlay"></div>
 	                        </div>
@@ -130,7 +130,7 @@
 	                    <div class="project">
 	                        <div class="photo-wrapper">
 	                            <div class="photo">
-	                            	<a class="fancybox" href="assets/img/portfolio/port06.jpg"><img class="img-responsive" src="assets/img/portfolio/port06.jpg" alt=""></a>
+	                            	<a class="fancybox" href="assets/img/portfolio/port06.jpg"><img class="img-responsive" src="assets/img/portfolio/port06.jpg" width="400" height="273" alt=""></a>
 	                            </div>
 	                            <div class="overlay"></div>
 	                        </div>
@@ -146,7 +146,7 @@
 	                    <div class="project">
 	                        <div class="photo-wrapper">
 	                            <div class="photo">
-	                            	<a class="fancybox" href="assets/img/portfolio/port01.jpg"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt=""></a>
+	                            	<a class="fancybox" href="assets/img/portfolio/port01.jpg"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" width="400" height="273" alt=""></a>
 	                            </div>
 	                            <div class="overlay"></div>
 	                        </div>
@@ -160,7 +160,7 @@
 	                    <div class="project">
 	                        <div class="photo-wrapper">
 	                            <div class="photo">
-	                            	<a class="fancybox" href="assets/img/portfolio/port02.jpg"><img class="img-responsive" src="assets/img/portfolio/port02.jpg" alt=""></a>
+	                            	<a class="fancybox" href="assets/img/portfolio/port02.jpg"><img class="img-responsive" src="assets/img/portfolio/port02.jpg" width="400" height="273" alt=""></a>
 	                            </div>
 	                            <div class="overlay"></div>
 	                        </div>
@@ -174,7 +174,7 @@
 	                    <div class="project">
 	                        <div class="photo-wrapper">
 	                            <div class="photo">
-	                            	<a class="fancybox" href="assets/img/portfolio/port03.jpg"><img class="img-responsive" src="assets/img/portfolio/port03.jpg" alt=""></a>
+	                            	<a class="fancybox" href="assets/img/portfolio/port03.jpg"><img class="img-responsive" src="assets/img/portfolio/port03.jpg" width="400" height="273" alt=""></a>
 	                            </div>
 	                            <div class="overlay"></div>
 	                        </div>
@@ -213,25 +213,25 @@
 					<p class="text">2+ years of experience using CSS. Adept at using it to style the page.</p>
 				</div>
 				<div class="col-sm-3 service">
-					<i><img src="assets/img/jquery.png" alt=""></i><p>jQuery<br/><small>Novice</small></p>
+					<i><img src="assets/img/jquery.png"  width="30" height="30" alt=""></i><p>jQuery<br/><small>Novice</small></p>
 					<p class="text">1+ years using jQuery. Confident in my ability to use most jQuery plugins.</p>
 				</div>
 				<div class="col-sm-3 service">
-					<i><img src="assets/img/js.png" alt=""></i><p>JavaScript<br/><small>Novice</small></p>
+					<i><img src="assets/img/js.png"  width="30" height="30" alt=""></i><p>JavaScript<br/><small>Novice</small></p>
 					<p class="text">1+ years utilizing JavaScript. My favorite language by far.</p>
 				</div>
 			</div><! --/row -->
 			<div class="row mt">
 				<div class="col-sm-3 service">
-					<i><img src="assets/img/bootstrap.png" alt=""></i><p>Bootstrap<br/><small>Experienced</small></p>
+					<i><img src="assets/img/bootstrap.png"  width="30" height="30" alt=""></i><p>Bootstrap<br/><small>Experienced</small></p>
 					<p class="text">2+ years of previouse bootstrap experience, it's what I use for most of my sites.</p>
 				</div>
 				<div class="col-sm-3 service">
-					<i><img src="assets/img/gimp.png" alt=""></i><p>Gimp<br/><small>Experienced</small></p>
+					<i><img src="assets/img/gimp.png"  width="30" height="30" alt=""></i><p>Gimp<br/><small>Experienced</small></p>
 					<p class="text">3+ years of image manipulation using gimp, a truly fantastic and fun tool.</p>
 				</div>
 				<div class="col-sm-3 service">
-					<i><img src="assets/img/php.png" alt=""></i><p>PHP<br/><small>Novice</small></p>
+					<i><img src="assets/img/php.png"  width="30" height="30" alt=""></i><p>PHP<br/><small>Novice</small></p>
 					<p class="text">6+ months with PHP> I'm a beginner but keen to learn and integrate into projects.</p>
 				</div>
 				<div class="col-sm-3 service">
@@ -250,7 +250,7 @@
 				    <div class="item active mb centered">
 				      <h2>VOLUNTEER WORK</h2>
 				      <p>I'm one of the founders of code yonkers, an organization set up to teach underpriveleged children in the NYC area the basics of coding. Giving something back to the community is a great experience that enriched my life and I hope to repeat it's success in the bay area.</p>
-				      <p><img src="assets/img/desktop.png" width="80"></p>
+				      <p><img src="assets/img/desktop.png" width="80" height="80"></p>
 				    </div>
 				</div><! --/col-lg-8 -->
 			</div><! --/row -->
@@ -282,12 +282,12 @@
 				<div class="col-lg-6">
 					<form role="form" method="post" action="mail.php">
 					  <div class="form-group">
-					    <label for="exampleInputName1">Your Name</label>
-					    <input name="contactname" type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter name">
-					    <label for="exampleInputEmail1">Email address</label>
-					    <input name="contactemail" type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
-					    <label for="exampleInputText1">Message</label>
-					    <textarea name ="contactmessage" class="form-control" rows="3"></textarea>
+					    <label for="name">Your Name</label>
+					    <input required name="contactname" type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter name">
+					    <label for="email">Email address</label>
+					    <input required name="contactemail" type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+					    <label for="message">Message</label>
+					    <textarea required name ="contactmessage" class="form-control" rows="3"></textarea>
 					  </div>
 					  <button name="submit" type="submit" class="btn btn-default">Submit</button>
 					</form>
