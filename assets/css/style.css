@@ -684,5 +684,6 @@ h1, h2, h3, h4, h5, h6 {
 	color: #2a84d2;
 }
 
-#portfoliowrap
-
+.project {
+	border: 1px solid #c8c8c8;
+}
