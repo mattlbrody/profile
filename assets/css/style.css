@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #headerwrap {
 	background: url(../img/back.jpg) no-repeat center top;
-	background-size:1424px 700px;
+	background-size:1600px 869px;
 	margin-top: 0px;
 	padding-top:400px;
 	text-align:center;
@@ -534,6 +534,60 @@ h1, h2, h3, h4, h5, h6 {
 	text-shadow: 2px 2px 2px #000;
 	text-align: center;
 }
+/*buttons to portfolio websites*/
+.portlink {
+	background-color:#2a84d2;
+	border:1px solid #2a84d2;
+	margin-top:10px;
+	border-radius: 5px;
+}
+.portlink2 {
+	background-color:#2a84d2;
+	border:1px solid #2a84d2;
+	margin-top:10px;
+	border-radius: 5px;
+}
+.portlink3 {
+	background-color:#2a84d2;
+	border:1px solid #2a84d2;
+	margin-top:10px;
+	border-radius: 5px;
+}
+.portlink a{
+	color:white;
+	text-decoration: none;
+}
+.portlink2 a{
+	color:white;
+	text-decoration: none;
+}
+.portlink3 a{
+	color:white;
+	text-decoration: none;
+}
+
+.portlink:hover {
+	background-color:white;
+}
+.portlink2:hover{
+	background-color:white;
+}
+.portlink3:hover {
+	background-color:white;
+}
+.portlink a:hover{
+	color: #2a84d2;
+}
+.portlink2 a:hover{
+	color: #2a84d2;
+}
+.portlink3 a:hover{
+	color: #2a84d2;
+}
+
+.project {
+	border: 1px solid #c8c8c8;
+}
 
 /*mobile screen size changes*/
 @media (max-width: 768px) {
@@ -546,7 +600,6 @@ h1, h2, h3, h4, h5, h6 {
 .about {
   background-image: url(../img/traveller.jpg);
   background-size:500px 259px;
-
 }
 .portfolio {
   background-size:500px 259px;
@@ -632,59 +685,3 @@ h1, h2, h3, h4, h5, h6 {
 }
 }
 
-/*buttons to portfolio websites*/
-.portlink {
-	background-color:#2a84d2;
-	border:1px solid #2a84d2;
-	margin-top:10px;
-	float:left;
-	border-radius: 5px;
-}
-.portlink2 {
-	background-color:#2a84d2;
-	border:1px solid #2a84d2;
-	margin-top:10px;
-	border-radius: 5px;
-}
-.portlink3 {
-	background-color:#2a84d2;
-	border:1px solid #2a84d2;
-	margin-top:10px;
-	float:right;
-	border-radius: 5px;
-}
-.portlink a{
-	color:white;
-	text-decoration: none;
-}
-.portlink2 a{
-	color:white;
-	text-decoration: none;
-}
-.portlink3 a{
-	color:white;
-	text-decoration: none;
-}
-
-.portlink:hover {
-	background-color:white;
-}
-.portlink2:hover{
-	background-color:white;
-}
-.portlink3:hover {
-	background-color:white;
-}
-.portlink a:hover{
-	color: #2a84d2;
-}
-.portlink2 a:hover{
-	color: #2a84d2;
-}
-.portlink3 a:hover{
-	color: #2a84d2;
-}
-
-.project {
-	border: 1px solid #c8c8c8;
-}

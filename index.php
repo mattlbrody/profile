@@ -66,19 +66,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-4 name">
-					<img class="img-responsive" src="assets/img/monkey.gif">
+					<img class="img-responsive" src="assets/img/monkey.gif" width="300" height="211">
 				</div><! --/col-sm-4-->
 				<div class="col-sm-8 name-desc">
 					<h2>SELF TAUGHT DESIGNER & <br/>FRONT-END DEVELOPER <br/>IN THE BEAUTIFUL BAY AREA</h2>
 					<div class="name-zig"></div>
 					
 					<div class="col-md-6">
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-						<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+						<p>I wrote my first line of code 3 years ago. I remember that moment very clearly, I was drinking coffee sitting at the bookworm in Chengdu, China. Being able to craft something online was a complete mystery. The impossibility of it all had previously deterred me, until one day I just had to find out how the internet works.</p>
+						<p>Codeacademy was my first teacher. HTML and CSS were both straightforward and fun to use. I was able to build websites right away. My first websites looked terrible, and were not user very friendly. So to step up my game, I started learning jQuery and JavaScript. They were a challenge to learn, but it paid off.</p>
 					</div>
 					<div class="col-md-6">
-						<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
-						<p> Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. </p>
+						<p>After knowing the basics of these languages, I knew I had to branch out further. So I started learning from Teamtreehouse, Codeschool, and several other online resources to increase my abilities. As my skills grew, so did my desire to learn more.</p>
+						<p>I spend most of my days writing code or learning how to write it better. What first was daunting is now just fun and relaxing. My end goal is to become a capable full stack developer. I’m well on my way and looking for the right company to help me get there.</p>
 					</div>
 					
 				</div><! --/col-lg-8-->
@@ -96,7 +96,7 @@
 		<div class="container">
 			<div class="row">
 				<h1>MY LATEST WORK</h1>
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
+				<div class="col-sm-4 desc">
 					<div class="project-wrapper">
 	                    <div class="project">
 	                        <div class="photo-wrapper">
@@ -106,12 +106,12 @@
 	                            <div class="overlay"></div>
 	                        </div>
 	                    </div>
-	                <button type="button" class="portlink"><a href="#">Check out the whole site!</a></button>
+	                <button type="button" class="portlink"><a href="http://codeyonkers.com/" target="_blank">Check out the whole site!</a></button>
 	                </div>
-				</div><!-- col-lg-4 -->
+				</div>
 
 				
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
+				<div class="col-sm-4 desc">
 					<div class="project-wrapper">
 	                    <div class="project">
 	                        <div class="photo-wrapper">
@@ -121,11 +121,11 @@
 	                            <div class="overlay"></div>
 	                        </div>
 	                    </div>
-	                    <button type="button" class="portlink2"><a href="#">Check out the whole site!</a></button>
+	                    <button type="button" class="portlink2"><a href="http://codifyacademy.com/" target="_blank">Check out the whole site!</a></button>
 	                </div>
-				</div><!-- col-lg-4 -->
+				</div>
 				
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
+				<div class="col-sm-4 desc">
 					<div class="project-wrapper">
 	                    <div class="project">
 	                        <div class="photo-wrapper">
@@ -136,12 +136,12 @@
 	                        </div>
 	                    </div>
 	                </div>
-	                <button type="button" class="portlink3"><a href="#">Check out the whole site!</a></button>
-				</div><!-- col-lg-4 -->
+	                <button type="button" class="portlink3"><a href="http://frontendmatt.com/BrodyLaw/index.html" target="_blank">Check out the whole site!</a></button>
+				</div>
 			</div><!-- /row -->
 	
 			<div class="row mt">
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
+				<div class="col-sm-4 desc">
 					<div class="project-wrapper">
 	                    <div class="project">
 	                        <div class="photo-wrapper">
@@ -151,11 +151,11 @@
 	                            <div class="overlay"></div>
 	                        </div>
 	                    </div>
-	                    <button type="button" class="portlink"><a href="#">Check out the whole site!</a></button>
+	                    <button type="button" class="portlink"><a href="http://www.liddum.com/blog/" target="_blank">Check out the whole site!</a></button>
 	                </div>
-				</div><!-- col-lg-4 -->
+				</div>
 				
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
+				<div class="col-sm-4 desc">
 					<div class="project-wrapper">
 	                    <div class="project">
 	                        <div class="photo-wrapper">
@@ -165,11 +165,11 @@
 	                            <div class="overlay"></div>
 	                        </div>
 	                    </div>
-	                    <button type="button" class="portlink2"><a href="#">Check out the whole site!</a></button>
+	                    <button type="button" class="portlink2"><a href="http://liddum.com/" target="_blank">Check out the whole site!</a></button>
 	                </div>
-				</div><!-- col-lg-4 -->
+				</div>
 				
-				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 desc">
+				<div class="col-sm-4 desc">
 					<div class="project-wrapper">
 	                    <div class="project">
 	                        <div class="photo-wrapper">
@@ -179,9 +179,9 @@
 	                            <div class="overlay"></div>
 	                        </div>
 	                    </div>
-	                    <button type="button" class="portlink3"><a href="#">Check out the whole site!</a></button>
+	                    <button type="button" class="portlink3"><a href="http://smallgoliath.com/" target="_blank">Check out the whole site!</a></button>
 	                </div>
-				</div><!-- col-lg-4 -->
+				</div>
 			</div><!-- /row -->
 		</div>
 		</div><! --/row -->
@@ -206,11 +206,11 @@
 			<div class="row mt">
 				<div class="col-sm-3 service">
 					<i class="fa fa-html5"></i><p>HTML5<br/><small>Experienced</small></p>
-					<p class="text">2+ years of experience using HTML. Very confortable coding with it.</p>
+					<p class="text">3+ years of experience using HTML. Very confortable coding with it.</p>
 				</div>
 				<div class="col-sm-3 service">
 					<i class="fa fa-css3"></i><p>CSS3<br/><small>Experienced</small></p>
-					<p class="text">2+ years of experience using CSS. Adept at using it to style the page.</p>
+					<p class="text">3+ years of experience using CSS. Adept at using it to style pages.</p>
 				</div>
 				<div class="col-sm-3 service">
 					<i><img src="assets/img/jquery.png"  width="30" height="30" alt=""></i><p>jQuery<br/><small>Novice</small></p>
@@ -218,21 +218,21 @@
 				</div>
 				<div class="col-sm-3 service">
 					<i><img src="assets/img/js.png"  width="30" height="30" alt=""></i><p>JavaScript<br/><small>Novice</small></p>
-					<p class="text">1+ years utilizing JavaScript. My favorite language by far.</p>
+					<p class="text">1+ years utilizing JavaScript. A must learn for anyone building websites, and a fun one too.</p>
 				</div>
 			</div><! --/row -->
 			<div class="row mt">
 				<div class="col-sm-3 service">
 					<i><img src="assets/img/bootstrap.png"  width="30" height="30" alt=""></i><p>Bootstrap<br/><small>Experienced</small></p>
-					<p class="text">2+ years of previouse bootstrap experience, it's what I use for most of my sites.</p>
+					<p class="text">2+ years of previouse bootstrap experience. It's what I use to make my websites responsive.</p>
 				</div>
 				<div class="col-sm-3 service">
 					<i><img src="assets/img/gimp.png"  width="30" height="30" alt=""></i><p>Gimp<br/><small>Experienced</small></p>
-					<p class="text">3+ years of image manipulation using gimp, a truly fantastic and fun tool.</p>
+					<p class="text">3+ years of image manipulation using gimp. A truly fantastic and fun tool.</p>
 				</div>
 				<div class="col-sm-3 service">
 					<i><img src="assets/img/php.png"  width="30" height="30" alt=""></i><p>PHP<br/><small>Novice</small></p>
-					<p class="text">6+ months with PHP> I'm a beginner but keen to learn and integrate into projects.</p>
+					<p class="text">6+ months with PHP. I'm a beginner but keen to learn and integrate it into projects.</p>
 				</div>
 				<div class="col-sm-3 service">
 					<i class="fa fa-github"></i><p>Github<br/><small>Novice</small></p>
@@ -267,13 +267,13 @@
 			<div class="row">
 				<div class="col-lg-6">
 					<p>DON'T BE SHY, GET IN TOUCH!</p>
-					<p>Call me, email me, or fill out the contact form. Whichever method you feel more confortable with works for me. Look forward to speaking with you.</p>
+					<p>Call me, email me, or fill out the contact form. Whichever method you feel more comfortable with works for me. Look forward to speaking with you.</p>
 					<p>
 						<small>Tel. 925-876-3287<br/>
-						Email. mattlbrody@gmail.com<br/>
+						Email. mattlbrody@gmail.com<br/></small>
 					</p>
 					<p>
-						<small>1327 Homestead Ave.<br/>
+						<small>Address. 1327 Homestead Ave.<br/>
 						Walnut Creek, CA 94598<br/>
 						USA</small>
 					</p>
@@ -308,13 +308,44 @@
 	<script src="assets/js/fancybox/jquery.fancybox.js"></script>    
 	<script src="assets/js/main.js"></script>
 		<script>
-		$(function(){
-			$.stellar({
-				horizontalScrolling: false,
-				verticalOffset: 40
+			var isMobile = {
+		    Android: function() {
+		        return navigator.userAgent.match(/Android/i);
+		    },
+		    BlackBerry: function() {
+		        return navigator.userAgent.match(/BlackBerry/i);
+		    },
+		    iOS: function() {
+		        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+		    },
+		    Opera: function() {
+		        return navigator.userAgent.match(/Opera Mini/i);
+		    },
+		    Windows: function() {
+		        return navigator.userAgent.match(/IEMobile/i);
+		    },
+		    any: function() {
+		        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+		    }
+			};
+			jQuery(document).ready(function(){
+			    if( !isMobile.any() )
+					$(function(){
+					    $.stellar({
+					    horizontalScrolling: false,
+					    verticalOffset: 50
+					    });
+					});
 			});
-		});
 		</script>
+		// <script>
+		// $(function(){
+		// 	$.stellar({
+		// 		horizontalScrolling: false,
+		// 		verticalOffset: 40
+		// 	});
+		// });
+		// </script>
 		
 		<script type="text/javascript">
       $(function() {
