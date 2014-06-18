@@ -599,13 +599,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 .about {
   background-image: url(../img/traveller.jpg);
-  background-size:500px 259px;
+  background-size:580px 300px;
 }
 .portfolio {
-  background-size:500px 259px;
+  background-size:580px 300px;
 }
 .contact {
-  background-size:500px 259px;
+  background-size:580px 300px;
 }
 #headerwrap h1 {
 	padding-top: 200px;
@@ -653,6 +653,8 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 40px;
 	text-align: center;
 	padding-top:100px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 .mt {
 	margin-top: 0px;
@@ -669,6 +671,17 @@ h1, h2, h3, h4, h5, h6 {
 .col-xs-12 {
 	width: 400px;
 }
+#portfoliowrap {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+#servicewrap {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+#testimonials {
+	margin-top: 40px;
+	margin-bottom: 0px;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
