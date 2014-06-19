@@ -1,57 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+<head>
+<meta charset="utf-8">
+<title ><?php wp_title( '|', true, 'right' ); ?></title>
+<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--> 
+<?php wp_head(); ?>
+</head>
 
-    <title>Matt Brody Profile</title>
-
-    <link href="style.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy this line! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    <script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-46682051-3', 'frontendmatt.com');
-	  ga('send', 'pageview');
-
-	</script>
-  </head>
-
-  <body data-spy="scroll" data-offset="0" data-target="#theMenu">
-		
-	<!-- Menu -->
-	<nav class="menu" id="theMenu">
-		<div class="menu-wrap">
-			<h1 class="logo" class="smoothScroll"><a href="#home">HOME</a></h1>
-			<i class="fa fa-times menu-close"></i>
-			<a href="#about" class="smoothScroll">About</a>
-			<a href="#portfolio" class="smoothScroll">Portfolio</a>
-			<a href="#services" class="smoothScroll">Services</a>
-			<a href="#contact" class="smoothScroll">Contact</a>
-			<a href="https://www.facebook.com/people/Matt-Brody/7824792" target="_blank"><i class="fa fa-facebook"></i></a>
-			<a href="https://www.linkedin.com/profile/view?id=104895579&trk=nav_responsive_tab_profile_pic" target="_blank"><i class="fa fa-linkedin"></i></a>
-			<a href="https://github.com/mattlbrody" target="_blank"><i class="fa fa-github"></i></a>
-			<a href="mailto:mattlbrody@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
-		</div>
-		
-		<!-- Menu button -->
-		<div id="menuToggle"><i class="fa fa-bars"></i></div>
-	</nav>
+	
 
 	<section id="home" name="home"></section>
 	<div id="headerwrap">
@@ -263,96 +223,4 @@
 	<! -- CONTACT SEPARATOR -->
 	<div class="sep contact" data-stellar-background-ratio="0.5"><h1>Bay Area Enthusiast</div>
 	
-	<div id="contactwrap">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-6">
-					<p>DON'T BE SHY, GET IN TOUCH!</p>
-					<p>Call me, email me, or fill out the contact form. Whichever method you feel more comfortable with works for me. Look forward to speaking with you.</p>
-					<p>
-						<small>Tel. 925-876-3287<br/>
-						Email. mattlbrody@gmail.com<br/></small>
-					</p>
-					<p>
-						<small>Address. 1327 Homestead Ave.<br/>
-						Walnut Creek, CA 94598<br/>
-						USA</small>
-					</p>
-				</div>
-				
-				<div class="col-lg-6">
-					<form role="form" method="post" action="mail.php">
-					  <div class="form-group">
-					    <label for="name">Your Name</label>
-					    <input required name="contactname" type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter name">
-					    <label for="email">Email address</label>
-					    <input required name="contactemail" type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
-					    <label for="message">Message</label>
-					    <textarea required name ="contactmessage" class="form-control" rows="3"></textarea>
-					  </div>
-					  <button name="submit" type="submit" class="btn btn-default">Submit</button>
-					</form>
-				</div>
-			
-			</div><! --/row -->
-		</div><!-- /container -->
-	</div>
-	
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="assets/js/classie.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/smoothscroll.js"></script>
-	<script src="assets/js/jquery.stellar.min.js"></script>
-	<script src="assets/js/fancybox/jquery.fancybox.js"></script>    
-	<script src="assets/js/main.js"></script>
-		<script>
-			var isMobile = {
-		    Android: function() {
-		        return navigator.userAgent.match(/Android/i);
-		    },
-		    BlackBerry: function() {
-		        return navigator.userAgent.match(/BlackBerry/i);
-		    },
-		    iOS: function() {
-		        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
-		    },
-		    Opera: function() {
-		        return navigator.userAgent.match(/Opera Mini/i);
-		    },
-		    Windows: function() {
-		        return navigator.userAgent.match(/IEMobile/i);
-		    },
-		    any: function() {
-		        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
-		    }
-			};
-			jQuery(document).ready(function(){
-			    if( !isMobile.any() )
-					$(function(){
-					    $.stellar({
-					    horizontalScrolling: false,
-					    verticalOffset: 50
-					    });
-					});
-			});
-		</script>
-		// <script>
-		// $(function(){
-		// 	$.stellar({
-		// 		horizontalScrolling: false,
-		// 		verticalOffset: 40
-		// 	});
-		// });
-		// </script>
-		
-		<script type="text/javascript">
-      $(function() {
-        //    fancybox
-          jQuery(".fancybox").fancybox();
-      });
-	   </script>
-  </body>
-</html>
+

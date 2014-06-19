@@ -17,7 +17,7 @@ button,
 input,
 select,
 textarea {
-    color: #222;
+    color: white;
 }
 
 /*
@@ -536,33 +536,14 @@ h1, h2, h3, h4, h5, h6 {
 	border:1px solid #2a84d2;
 	margin-top:10px;
 	border-radius: 5px;
-}
-.portlink2 {
-	background-color:#2a84d2;
-	border:1px solid #2a84d2;
-	margin-top:10px;
-	border-radius: 5px;
-}
-.portlink3 {
-	background-color:#2a84d2;
-	border:1px solid #2a84d2;
-	margin-top:10px;
-	border-radius: 5px;
+	color: white;
 }
 .portlink a{
 	color:white;
 	text-decoration: none;
 }
-.portlink2 a{
-	color:white;
-	text-decoration: none;
-}
-.portlink3 a{
-	color:white;
-	text-decoration: none;
-}
-
 .portlink:hover {
+	color: #2a84d2;
 	background-color:white;
 }
 .portlink2:hover{

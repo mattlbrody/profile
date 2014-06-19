@@ -116,7 +116,7 @@
 	                            <div class="overlay"></div>
 	                        </div>
 	                    </div>
-	                <button type="button" class="portlink"><a href="http://codeyonkers.com/" target="_blank">Check out the whole site!</a></button>
+	                <a href="http://codeyonkers.com/" target="_blank"><button type="button" class="portlink">Check out the whole site!</button></a>
 	                </div>
 				</div>
 
@@ -131,7 +131,7 @@
 	                            <div class="overlay"></div>
 	                        </div>
 	                    </div>
-	                    <button type="button" class="portlink2"><a href="http://codifyacademy.com/" target="_blank">Check out the whole site!</a></button>
+	                    <a href="http://codifyacademy.com/" target="_blank"><button type="button" class="portlink">Check out the whole site!</button></a>
 	                </div>
 				</div>
 				
@@ -146,7 +146,7 @@
 	                        </div>
 	                    </div>
 	                </div>
-	                <button type="button" class="portlink3"><a href="http://frontendmatt.com/BrodyLaw/index.html" target="_blank">Check out the whole site!</a></button>
+	                <a href="http://frontendmatt.com/BrodyLaw/index.html" target="_blank"><button type="button" class="portlink">Check out the whole site!</button></a>
 				</div>
 			</div><!-- /row -->
 	
@@ -161,7 +161,7 @@
 	                            <div class="overlay"></div>
 	                        </div>
 	                    </div>
-	                    <button type="button" class="portlink"><a href="http://www.liddum.com/blog/" target="_blank">Check out the whole site!</a></button>
+	                    <a href="http://www.liddum.com/blog/" target="_blank"><button type="button" class="portlink">Check out the whole site!</button></a>
 	                </div>
 				</div>
 				
@@ -175,7 +175,7 @@
 	                            <div class="overlay"></div>
 	                        </div>
 	                    </div>
-	                    <button type="button" class="portlink2"><a href="http://liddum.com/" target="_blank">Check out the whole site!</a></button>
+	                    <a href="http://liddum.com/" target="_blank"><button type="button" class="portlink">Check out the whole site!</button></a>
 	                </div>
 				</div>
 				
@@ -189,7 +189,7 @@
 	                            <div class="overlay"></div>
 	                        </div>
 	                    </div>
-	                    <button type="button" class="portlink3"><a href="http://smallgoliath.com/" target="_blank">Check out the whole site!</a></button>
+	                    <a href="http://smallgoliath.com/" target="_blank"><button type="button" class="portlink">Check out the whole site!</button></a>
 	                </div>
 				</div>
 			</div><!-- /row -->
